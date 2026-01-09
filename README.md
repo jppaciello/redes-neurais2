@@ -4,9 +4,9 @@ Projeto acadêmico desenvolvido com o objetivo de aplicar conceitos fundamentais
 
 🛠️ Tecnologias e Bibliotecas Utilizadas
 
-Linguagem: Python
+Linguagem: Python |
 Bibliotecas principais:
-NumPy e Scikit-learn
+NumPy e Scikit-learn |
 Ferramentas:
 OpenML (para obtenção do dataset)
 Ambiente VScode ou IDE Python
